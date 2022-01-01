@@ -1,6 +1,4 @@
 /*
- * @Description: Final Exam
- * @Author: Dylan Rodrigues
  * @Date: Dec. 15, 2021
 */
 
