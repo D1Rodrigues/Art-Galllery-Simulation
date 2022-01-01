@@ -1,6 +1,4 @@
 /*
- * @Description: CPS607-FinalExam, 
- * @Author: Dylan Rodrigues
  * @Date: Dec. 15, 2021
 */
 
